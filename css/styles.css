@@ -140,6 +140,11 @@ input, texture, select, button {
   
 }
 
+.about {
+
+  align: center;
+}
+
 .centerabout {
   display: block;
   margin-left: auto;
@@ -326,6 +331,7 @@ input, texture, select, button {
     box-shadow: none;  
   }
 }
+
 
 .box {
   @extend %box-shared;
