@@ -140,10 +140,6 @@ input, texture, select, button {
   
 }
 
-.about {
-  align: center;
-}
-
 .centerabout {
   display: block;
   margin-left: auto;
